@@ -24,4 +24,11 @@ Controle de versão GIT instalado na sua máquina.
 Conta no GitHub para o armazenamento do seu projeto na nuvem.
 Conta no Heroku para o deploy do projeto na nuvem
 
-By Digital Innovation One 
+HEROKU path:
+https://person-api-bootcamp-eder.herokuapp.com
+Swagger HEROKU:
+https://person-api-bootcamp-eder.herokuapp.com/swagger-ui.html#/person-controller
+Swagger Local:
+http://localhost:8080/swagger-ui.html#/person-controller
+
+By Eder Sant'ana

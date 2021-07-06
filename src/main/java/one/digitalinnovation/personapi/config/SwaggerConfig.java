@@ -41,4 +41,6 @@ public class SwaggerConfig {
                 .contact(new Contact(CONTACT_NAME, CONTACT_GITHUB, CONTACT_EMAIL))
                 .build();
     }
+    
+
 }
